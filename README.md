@@ -1,26 +1,16 @@
 # React Top Stories
 
-A web app for fetching top stories using the NYT Top Stories API
-
-<p align="center"> 
-    <a href="https://main--fantastic-arithmetic-f828ab.netlify.app/" target="_blank">
-    <img src="topstories.png" align="center"></img>
-    </a>
-</p>
+A template for React using vite
 
 - **[React](https://facebook.github.io/react/)** (18.x)
 - **[Vite](https://vitejs.dev/)** (5.x)
 - **[Typescript](https://www.typescriptlang.org/)** (4.x)
 - [SASS](http://sass-lang.com/) support
+- **i18**
+- **Material UI**
+- **react-hook-form**
+- **notistack**
 - Production build script
-
-## Live Demo
-
-See a [live demo](https://main--fantastic-arithmetic-f828ab.netlify.app/) on Netlify
-
-## Implementation of the NYT Top Stories API in .Net
-
-See [this repo](https://github.com/Tasin5541/top-stories-api) for the implementation
 
 ## Installation
 
